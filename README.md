@@ -30,6 +30,7 @@ The script uses `navigator.userAgent` and `navigator.platform` to detect the dev
 
 ## Technologies Used
 - HTML
+- CSS
 - JavaScript
 
 ## Contact
